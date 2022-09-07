@@ -1,0 +1,1 @@
+最小化的使用openGL的例子，搭配freeglut这个第三方库
